@@ -1,12 +1,10 @@
 html-starter
 ============
 
-A responsive grid that maintains cells aspect ratio
+Quickly initialize a simple html project for testing ideas
 
 Usage
 =====
-
-Install via bower:
 
 ```sh
 ./html-starter project_dir
