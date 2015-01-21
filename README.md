@@ -2,6 +2,7 @@ html-starter
 ============
 
 Quickly initialize a simple html project for testing ideas
+The template project sources can be found at [https://github.com/Glitchbone/html-starter-template](https://github.com/Glitchbone/html-starter-template)
 
 Usage
 =====
